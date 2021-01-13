@@ -43,7 +43,7 @@
 		    <version>2.4.4</version>
 		</dependency>
 			
-		<!-- jstl -->
+		<!-- JSTL -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
